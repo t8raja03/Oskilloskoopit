@@ -1,6 +1,6 @@
 /*    Tämä sketsi käyttää keskeytyksiä näytteenotossa hyväksi, ainakin 1000Hz taajuudella toimii oikein.
  *    Isommista taajuuksista ei ole varmuutta, koska ei ole ihan varmaa mitä taajuutta lähetetään.
- *    Kerää 900 näytettä muistiin ja tulostaa Serial Plotterille/Monitorille 1 000 000 baudin nopeudella.
+ *    Kerää 900 näytettä muistiin ja tulostaa Serial Plotterille/Monitorille 9600 baudin nopeudella.
  */
 
 
